@@ -1,3 +1,5 @@
+Podrá acceder a los archivos en "https://github.com/MatMa4/TP-Dise-o-de-Sistemas-Entrega-"
+
 Para ejecutar la aplicación primero se deben seguir los siguientes pasos:
 1) Abrir la carpeta "TrabajoPractico_Backend" desde NetBeans. 
 2) Ejecutar el contenido de la carpeta presionando el botón run.
@@ -13,3 +15,4 @@ Aclaraciones y advertencias:
 - La aplicación actual se encuentra en desarrollo, por lo que puede que se presenten problemas en la visualización que serán corregidos en el futuro
 - La aplicación está configurada de forma que la base de datos se elimina al volver a iniciar el proyecto de NetBeans
 - Para ver el estado actual de la base de datos recomendamos utilizar Postman y realizar una solicitud GET en "http://localhost:8080/huespedes"
+
